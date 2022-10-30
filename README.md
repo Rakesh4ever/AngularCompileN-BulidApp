@@ -1,5 +1,9 @@
 # AngularCompileNBulidApp
 
+Run the below command for production build and " --base-href=/MyAngularApp/ " is for folder name in the tomcat webapps/  name
+
+ng build --configuration production --base-href=/MyAngularApp/
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.6.
 
 ## Development server
